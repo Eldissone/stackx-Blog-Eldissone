@@ -218,7 +218,7 @@ data_dataTime.forEach( function (date) {
 
 // ======redes sociais======
 data_IconInsta.addEventListener("click", function () {
-    location.href = "https://www.instagram.com/Eldissone Vilonga";
+    location.href = "https://instagram.com/eldissone?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D";
 })
 
 data_IconLinkedin.addEventListener("click", function () {
